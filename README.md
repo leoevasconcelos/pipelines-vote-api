@@ -1,1 +1,1 @@
-# tekton-pipelines-demo-teste
+# tekton-pipelines-demo-tekton
